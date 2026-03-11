@@ -1,4 +1,4 @@
- [discordにjoin](https://discord.gg/AUWUnnUjmj )
+ [discord　join　naw](https://discord.gg/AUWUnnUjmj )
 
  # token.raider
 ## This tool is a remote sending and joining tool using Discord tokens.
